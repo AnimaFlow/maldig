@@ -288,7 +288,8 @@ def write_csv(rows, path, headers):
         writer.writerow(headers)
         for row in rows:
             formatted_row = [
-                json.dumps(val, ensure_ascii=False) if isinstance(val, (list, dict)) else val
+                json.dumps(val, ensure_ascii=False)
+                if isinstance(val, (list, dict)) else val
                 for val in row
             ]
             writer.writerow(formatted_row)
