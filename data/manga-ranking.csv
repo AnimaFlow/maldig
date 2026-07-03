@@ -1,7 +1,7 @@
 id,title,mean,rank,popularity,num_list_users,num_scoring_users
 2,Berserk,9.46,1,1,801873,401266
 1706,JoJo no Kimyou na Bouken Part 7: Steel Ball Run,9.34,2,20,327464,203146
-656,Vagabond,9.27,3,12,462140,177076
+656,Vagabond,9.27,3,12,462140,177077
 13,One Piece,9.21,4,3,701722,423105
 162032,Guimi Zhi Zhu,9.2,5,892,24843,7923
 1,Monster,9.16,6,27,291836,117694
@@ -211,7 +211,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 97244,Shimanami Tasogare,8.46,210,263,70943,25514
 100323,Yuukoku no Moriarty,8.46,211,471,43431,11274
 42,Dragon Ball,8.45,212,66,184033,111150
-1032,Doraemon,8.45,213,1288,18014,8374
+1032,Doraemon,8.45,213,1288,18015,8375
 17051,Barakamon,8.45,214,431,46338,13403
 88930,Youjo Senki,8.45,215,813,27080,6178
 147585,Sensou Kyoushitsu,8.45,216,1152,19758,3453
@@ -331,7 +331,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 146909,SSS-Class Revival Hunter,8.32,330,289,65374,24385
 31,Lovely★Complex,8.32,331,266,70253,30165
 443,Mars,8.32,332,522,39290,16380
-704,Trigun Maximum,8.32,333,595,34994,12412
+704,Trigun Maximum,8.32,333,595,34995,12413
 3281,Hadashi no Gen,8.32,334,1763,14035,3087
 4625,Kamigami no Itadaki,8.32,335,1137,20088,3186
 49835,Gochuumon wa Usagi desu ka?,8.32,336,3091,8339,1613
@@ -376,7 +376,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 145496,Yuki no Yousei,8.28,375,4472,5764,2481
 172605,Xiao Mogu,8.28,376,19500,907,359
 174045,I Love Amy,8.28,377,3392,7610,3827
-24,D.Gray-man,8.28,378,77,172176,66197
+24,D.Gray-man,8.28,378,77,172178,66197
 57,Hanazakari no Kimitachi e,8.28,379,516,39805,17937
 838,Angel Densetsu,8.28,380,295,64209,26954
 1009,Hachimitsu to Clover,8.28,381,809,27172,6911
@@ -385,12 +385,12 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 57791,Canis Series,8.28,384,1969,12796,2766
 77609,Harukaze no Étranger,8.28,385,872,25339,7689
 98379,Bungou Stray Dogs Wan!,8.28,386,3113,8277,2059
-375,Initial D,8.27,387,589,35180,10999
+375,Initial D,8.27,387,589,35181,10999
 915,Rookies,8.27,388,784,27970,7112
 1075,7 Seeds,8.27,389,793,27637,5898
 2459,Komatta Toki ni wa Hoshi ni Kike,8.27,390,2958,8719,2799
 7776,Toaru Majutsu no Index Gaiden: Toaru Kagaku no Railgun,8.27,391,669,31926,10728
-14790,Magi,8.27,392,83,165146,71532
+14790,Magi,8.27,392,83,165147,71532
 43921,Sword Art Online: Progressive,8.27,393,942,23717,7532
 47022,Sakamichi no Apollon: Bonus Track,8.27,394,3539,7295,3487
 102330,Majo no Tabitabi,8.27,395,1789,13906,2442
@@ -406,7 +406,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 148234,How to Win My Husband Over,8.26,405,1105,20478,6398
 158,Ghost Hunt,8.26,406,1317,17703,6011
 4258,Hikari to Tomo ni...: Jiheishouji wo Kakaete,8.26,407,3670,7006,1022
-5255,Dengeki Daisy,8.26,408,128,122502,52384
+5255,Dengeki Daisy,8.26,408,128,122503,52384
 10884,Diamond no Ace,8.26,409,800,27526,10954
 30079,Annarasumanara,8.26,410,241,74022,30423
 56743,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,8.26,411,668,31969,8860
@@ -449,13 +449,13 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 4571,Akagami no Shirayuki-hime,8.23,448,235,75438,22211
 17552,Non Non Biyori,8.23,449,1839,13594,3167
 18074,Getter Robo Saga,8.23,450,7883,3042,883
-62547,Yugami-kun ni wa Tomodachi ga Inai,8.23,451,628,33450,10636
+62547,Yugami-kun ni wa Tomodachi ga Inai,8.23,451,628,33452,10636
 92252,Koimonogatari,8.23,452,1420,16649,3948
 106204,Majo to Yajuu,8.23,453,906,24568,4140
 127221,Ookami Kodomo no Ame to Yuki,8.23,454,6855,3580,1086
 140409,Yoake no Uta,8.23,455,4480,5751,1015
 146798,Semantic Error,8.23,456,2165,11580,4637
-163455,Phantom Busters,8.23,457,1708,14433,2540
+163455,Phantom Busters,8.23,457,1708,14434,2541
 112091,Hidamari ga Kikoeru: Limit,8.22,458,2781,9177,3538
 116479,Shinsekai yori,8.22,459,7114,3418,509
 131799,Romance 101,8.22,460,2543,9936,3594
@@ -501,7 +501,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 55869,Rokka no Yuusha,8.2,500,1563,15625,2860
 58563,Innocent,8.2,501,249,72935,19803
 80281,Girls & Panzer: Ribbon no Musha,8.2,502,5636,4462,1447
-103897,Dr. Stone,8.2,503,41,215915,104650
+103897,Dr. Stone,8.2,503,41,215916,104650
 104491,Bokura no Shokutaku,8.2,504,1351,17367,7468
 1297,Iryuu: Team Medical Dragon,8.19,505,1703,14495,4438
 3008,JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,8.19,506,126,122613,75978
@@ -511,7 +511,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 118646,Why Raeliana Ended Up at the Duke's Mansion,8.19,510,397,50317,22996
 132962,Boku ga Otto ni Deau made,8.19,511,2721,9362,3826
 148245,Killer Crush,8.19,512,5927,4209,1652
-148467,Super no Ura de Yani Suu Futari,8.19,513,262,70992,19085
+148467,Super no Ura de Yani Suu Futari,8.19,513,262,70994,19085
 149090,Trapped,8.19,514,2693,9437,3223
 162043,The Crown Princess Scandal,8.19,515,7839,3067,1297
 165540,Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken: After the Rain,8.19,516,6618,3726,809
@@ -564,7 +564,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 77637,Helck,8.16,563,439,45668,15590
 102703,Doukyuusei: Gold Ring & Silver Ring,8.16,564,2519,10000,4076
 17,Kareshi Kanojo no Jijou,8.15,565,487,42114,15055
-436,Uzumaki,8.15,566,31,254390,143474
+436,Uzumaki,8.15,566,31,254391,143474
 792,City Hunter,8.15,567,1234,18795,4795
 929,Fushigi Yuugi: Genbu Kaiden,8.15,568,1824,13706,5322
 10865,Touhou Shinigami: Meteor Methuselah Gaiden,8.15,569,4026,6412,2118
@@ -689,7 +689,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 119931,One Room Angel,8.08,688,2869,8935,3594
 133757,Unnamed Memory,8.08,689,5404,4683,852
 135264,Fool Night,8.08,690,1240,18730,2680
-147863,Nano Machine,8.08,691,459,43951,16089
+147863,Nano Machine,8.08,691,459,43953,16089
 149266,Secret Lady,8.08,692,2589,9742,2278
 149804,Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta,8.08,693,949,23557,7140
 150413,Villains Are Destined to Die,8.08,694,14232,1430,493
@@ -764,7 +764,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 59893,Tanaka-kun wa Itsumo Kedaruge,8.05,763,679,31303,9808
 77463,Higurashi no Naku Koro ni - Dai 2-wa: Watanagashi-hen,8.05,764,10745,2068,729
 121209,Houkago Shounen Hanako-kun,8.05,765,2658,9536,2714
-143031,Aishiteru Game wo Owarasetai,8.05,766,580,35860,10033
+143031,Aishiteru Game wo Owarasetai,8.05,766,580,35862,10033
 154454,Mother's Contract Marriage,8.05,767,3271,7922,2032
 158296,Surviving the Game as a Barbarian,8.05,768,1128,20176,6514
 162479,Kagurabachi,8.05,769,149,108257,30537
@@ -806,7 +806,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 129656,"Watashi wo Tabetai, Hitodenashi",8.02,805,1324,17594,3569
 170480,Selfish Romance,8.02,806,6235,3991,1061
 4368,Toradora!,8.02,807,486,42130,13163
-49865,Ajin,8.02,808,85,158700,55653
+49865,Ajin,8.02,808,85,158703,55654
 53537,Danganronpa Kirigiri,8.02,809,4341,5931,890
 23,Ranma ½,8.01,810,330,58684,27612
 105,Kekkaishi,8.01,811,641,33044,14293
@@ -851,7 +851,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 77571,Higurashi no Naku Koro ni Kai - Dai 1-wa: Meakashi-hen,8,850,13497,1535,457
 89562,Tsubaki-chou Lonely Planet,8,851,390,50576,18200
 98578,Kanata no Astra,8,852,929,24105,9555
-99007,"Komi-san wa, Comyushou desu.",8,853,29,276861,110629
+99007,"Komi-san wa, Comyushou desu.",8,853,29,276862,110630
 102165,Tokidoki,8,854,378,51866,31304
 103942,Ao no Flag,8,855,240,74077,31542
 107239,Maiko-san Chi no Makanai-san,8,856,3194,8086,1638
@@ -884,7 +884,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 155158,Famiresu Iko.,7.99,883,10144,2221,655
 158560,The Top Dungeon Farmer,7.99,884,1900,13253,3736
 184902,Burning Effect,7.99,885,19146,930,252
-193929,"Got Dropped into a Ghost Story, Still Gotta Work",7.99,886,15509,1268,348
+193929,"Got Dropped into a Ghost Story, Still Gotta Work",7.99,886,15509,1268,349
 110485,Shuumatsu no Walküre,7.98,887,90,153859,64329
 113095,Yumi's Cells,7.98,888,4184,6183,2345
 119521,Odd Girl Out,7.98,889,3576,7194,2415
@@ -896,7 +896,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 148961,The Superhuman Era,7.98,895,2766,9227,2253
 150293,Jingjiu,7.98,896,12078,1785,594
 153518,Tyrant of the Tower Defense Game,7.98,897,1409,16731,4911
-157888,Revenge of the Baskerville Bloodhound,7.98,898,503,41309,13627
+157888,Revenge of the Baskerville Bloodhound,7.98,898,503,41310,13627
 160661,Tamaranai no wa Koi nano ka,7.98,899,6121,4077,787
 180376,"What a Bountiful Harvest, Demon Lord!",7.98,900,3835,6712,1638
 184943,Concubine Walkthrough,7.98,901,18179,1010,340
@@ -1541,7 +1541,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 115230,Ginga no Shinanai Kodomotachi e,7.79,1540,9521,2402,796
 119696,Overlord: Boukoku no Kyuuketsuki,7.79,1541,23328,675,253
 121026,7 Seeds Gaiden,7.79,1542,9904,2284,772
-149438,My Blasted Reincarnated Life,7.79,1543,638,33117,10965
+149438,My Blasted Reincarnated Life,7.79,1543,638,33118,10965
 162566,J⇔M,7.79,1544,9254,2490,558
 163356,Ogami Tsumiki to Ki Nichijou.,7.79,1545,1134,20108,4551
 182734,#Gal to Gal no Yuri,7.79,1546,5466,4626,1331
@@ -2759,7 +2759,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 153396,Itou Junji Kyoufu Hakubutsukan,7.57,2758,2040,12345,6000
 155366,Piccolina,7.57,2759,9439,2430,487
 155530,Hoteri Hotette First Kiss,7.57,2760,8971,2584,898
-170974,Blink Master of the Magic Academy,7.57,2761,1309,17775,5164
+170974,Blink Master of the Magic Academy,7.57,2761,1309,17780,5166
 172287,"Kimi ga Hoeru Tame no Uta wo,",7.57,2762,9248,2493,511
 173306,Mahou Shoujo Dandelion,7.57,2763,4808,5323,737
 173875,"Akuyaku Reijou no Kyouji: Konyakusha wo Ubaitotte Gishi wo Oidashita Watashi wa, Douyara Ima kara Hametsu suru you desu.",7.57,2764,14548,1387,359
@@ -2782,7 +2782,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 147561,Nine Peaks,7.56,2781,4223,6110,1047
 147661,Author of My Own Destiny,7.56,2782,2054,12242,3493
 147921,How to Become a Dragon,7.56,2783,13998,1461,523
-148351,Promise of an Orchid,7.56,2784,4369,5894,2043
+148351,Promise of an Orchid,7.56,2784,4369,5895,2043
 148921,An Hour of Romance,7.56,2785,12114,1778,556
 151550,Villain with a Crush,7.56,2786,2293,10880,3426
 153111,Oshi ni Amagami,7.56,2787,4750,5402,783
@@ -2836,7 +2836,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 246,Princess Princess,7.55,2835,3021,8523,3585
 322,Genjuu no Seiza,7.55,2836,10415,2149,548
 332,Gravitation,7.55,2837,1591,15347,7629
-598,Fairy Tail,7.55,2838,28,282388,163490
+598,Fairy Tail,7.55,2838,28,282389,163490
 669,Highschool of the Dead,7.55,2839,183,94839,43209
 815,Yume de Aetara,7.55,2840,4829,5299,1998
 1293,I'll,7.55,2841,5860,4263,1115
@@ -3509,7 +3509,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 120670,Tensei shitara Slime Datta Ken Ibun: Makokugurashi no Trinity,7.46,3508,5165,4910,1207
 121679,Iya na Kao sare nagara Opantsu Misete Moraitai: Yo wa Pantsu ga Mitai zo,7.46,3509,2760,9247,2468
 124002,Mizu wa Umi ni Mukatte Nagareru,7.46,3510,8258,2866,982
-125892,Furyou Taimashi Reina,7.46,3511,2560,9864,2793
+125892,Furyou Taimashi Reina,7.46,3511,2560,9865,2793
 133591,Yoru no Namae wo Yonde,7.46,3512,5632,4468,604
 140234,Shin Kirari,7.46,3513,16682,1140,302
 147455,Masters of Lightning Knives,7.46,3514,3751,6846,1880
@@ -3540,7 +3540,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 1792,Captain Tsubasa: Golden-23,7.46,3539,9788,2321,1176
 2561,Zelda no Densetsu: Yottsu no Tsurugi+,7.46,3540,2510,10017,5395
 3104,Helter Skelter,7.46,3541,966,23236,8948
-3321,Kabu no Isaki,7.46,3542,4637,5537,1559
+3321,Kabu no Isaki,7.46,3542,4637,5536,1559
 5204,Kidou Senshi Crossbone Gundam: Koutetsu no 7-nin,7.46,3543,12798,1659,675
 7761,Gundam Sentinel,7.46,3544,19233,924,232
 9643,Bokura ni Matsuwaru etc.,7.46,3545,3214,8046,4263
@@ -3681,7 +3681,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 130326,Bungou Stray Dogs Koushiki Anthology: Rin,7.44,3680,12599,1690,288
 131501,Noraneko to Ookami,7.44,3681,5327,4756,922
 133373,"Wagahai wa Neko de Aru, Shokugyou wa Barista.",7.44,3682,17754,1047,336
-133615,Hell Is Other People,7.44,3683,10853,2043,872
+133615,Hell Is Other People,7.44,3683,10853,2042,872
 134765,Nakitai Watashi wa Neko wo Kaburu,7.44,3684,12189,1764,385
 135138,Subarashii Kisetsu ni Yasashii Kimi to,7.44,3685,9366,2457,1238
 135455,Shikanoko Nokonoko Koshitantan,7.44,3686,4701,5460,1006
@@ -4041,7 +4041,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 134261,Murazukuri Game no NPC ga Namami no Ningen to shika Omoenai,7.41,4040,23056,688,216
 141975,Romance ni wa Hodotooi,7.41,4041,12312,1738,833
 142826,No Game No Life: Dai-2 Shou - Toubu Rengou-hen,7.41,4042,12089,1783,207
-147202,My S-Class Hunters,7.41,4043,1285,18109,5606
+147202,My S-Class Hunters,7.41,4043,1285,18110,5606
 147273,Act Like You Love Me!,7.41,4044,4146,6235,2333
 147820,Master Villainess the Invincible!,7.41,4045,4549,5660,1675
 149842,Ginmokusei no Shitateya,7.41,4046,15628,1253,546
@@ -4457,7 +4457,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 164252,Akanabe-sensei wa Tereshirazu,7.37,4456,2221,11282,2350
 165663,Gokugoku Futsuu no Fuufu no Hanashi: Matome,7.37,4457,4756,5398,982
 166450,I Will Become the Villain's Poison Taster,7.37,4458,6685,3684,793
-168970,The Reincarnated King of Fists,7.37,4459,2602,9704,2290
+168970,The Reincarnated King of Fists,7.37,4459,2602,9705,2290
 170159,My Comeback as the Youngest Member,7.37,4460,16112,1198,324
 172869,Renai Side,7.37,4461,32739,353,182
 175794,Nito no Joreishi,7.37,4462,6232,3995,761
@@ -4680,7 +4680,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 160421,Blue Archive: Benriya 68 Gyoumu Nisshi,7.35,4679,21928,751,157
 164257,Big Spender in a Busted Game,7.35,4680,18832,954,191
 165102,Being Loved for the First Time,7.35,4681,7320,3309,680
-167227,Nan Hong,7.35,4682,18724,962,170
+167227,Nan Hong,7.35,4682,18724,964,170
 167985,A Child Who Looks Like Me,7.35,4683,14087,1449,329
 168938,Yankee to Caraméliser,7.35,4684,19787,885,372
 178605,Koukou Jidai ni Gouman datta Joou-sama to no Dousei Seikatsu wa Igai to Igokochi ga Warukunai,7.35,4685,3327,7785,1624
@@ -4910,7 +4910,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 143972,Kimetsu no Yaiba Koushiki Fanbook: Kisatsutai Kenbunroku,7.32,4909,19049,938,269
 145955,Meiou-sama ga Tooru no desu yo! @comic,7.32,4910,7365,3284,990
 146324,Doushitara Osananajimi no Kanojo ni Naremasu ka!?,7.32,4911,3666,7014,2519
-146879,Manager Kim,7.32,4912,2641,9590,2930
+146879,Manager Kim,7.32,4912,2641,9591,2930
 147619,The Build Up,7.32,4913,8951,2591,785
 147974,She Is Beautiful,7.32,4914,8848,2634,392
 148559,Rumor Has It,7.32,4915,11216,1957,884
@@ -5032,7 +5032,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 866,IO,7.31,5031,3857,6667,2284
 948,Souten no Koumori,7.31,5032,5548,4552,2524
 993,Ichigenme,7.31,5033,20165,857,408
-1658,Dororo,7.31,5034,1219,18953,7427
+1658,Dororo,7.31,5034,1219,18954,7427
 1672,Shurayuki-hime,7.31,5035,3047,8457,2470
 1673,Jackals,7.31,5036,1815,13752,5458
 1727,Kazan,7.31,5037,15202,1308,474
@@ -5197,7 +5197,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 159028,Kimi to Barairo no Hibi,7.3,5196,7355,3288,501
 159774,Karasu ni Hitoe wa Niawanai,7.3,5197,26077,552,122
 162514,Torima Minshuku Yadori-teki na!,7.3,5198,3474,7438,1270
-162714,The Lady of the Devil,7.3,5199,11481,1898,321
+162714,The Lady of the Devil,7.3,5199,11481,1899,321
 162947,Tayutau Kemuri wa Tsukamenai,7.3,5200,7614,3162,573
 167715,Golden Man,7.3,5201,11188,1963,305
 167974,"Otameshi to wa Ie, Sukisugiru",7.3,5202,22126,739,322
@@ -5423,7 +5423,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 170220,Uesugi-kun wa Onnanoko wo Yametai,7.28,5422,10471,2135,485
 170745,Baby Prisoner of the Winter Castle,7.28,5423,11245,1952,381
 172047,Manemane Nichinichi,7.28,5424,6878,3568,649
-174159,Eiyuu Kikan,7.28,5425,4622,5553,1159
+174159,Eiyuu Kikan,7.28,5425,4622,5554,1159
 177547,The Villainess Makes Amends,7.28,5426,16074,1202,216
 177700,Mamahaha no Kokoroe,7.28,5427,19920,875,161
 183558,335KM,7.28,5428,29867,427,170
@@ -5664,7 +5664,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 149241,The Flower That Was Bloomed by a Cloud,7.26,5663,15103,1320,266
 149579,Cassmire: The Loyal Sword,7.26,5664,6425,3854,850
 149667,Utsukushii Kare,7.26,5665,16567,1152,238
-150784,Legend of an Asura: The Poison Dragon,7.26,5666,2386,10445,2853
+150784,Legend of an Asura: The Poison Dragon,7.26,5666,2386,10446,2853
 150810,Makoto no Momoka,7.26,5667,9741,2338,1119
 151242,Helmut,7.26,5668,1931,13033,3431
 152370,Kanpekisugite Kawaige ga Nai to Konyaku Haki sareta Seijo wa Ringoku ni Urareru,7.26,5669,6406,3866,784
@@ -5817,7 +5817,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 39805,Doko e mo Yukenai Ki ga Shiteta,7.25,5816,20023,868,278
 40475,Natsuyasumi 00-nichime,7.25,5817,6932,3537,2072
 44515,Edo Karuta,7.25,5818,16624,1146,590
-46716,Masamune-kun no Revenge,7.25,5819,158,104393,53291
+46716,Masamune-kun no Revenge,7.25,5819,158,104394,53291
 47483,Toaru Kagaku no Railgun: Giten Railgun,7.25,5820,15502,1269,338
 47919,Magdala de Nemure,7.25,5821,16671,1141,128
 49051,Grisaia no Kajitsu: Sanctuary Fellows,7.25,5822,5502,4596,981
@@ -6232,7 +6232,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 737,Tsurebito,7.22,6231,10787,2058,609
 889,Alien 9,7.22,6232,2077,12096,4227
 924,Gertrude no Recipe,7.22,6233,18757,960,369
-1676,Ribbon no Kishi,7.22,6234,6086,4112,1330
+1676,Ribbon no Kishi,7.22,6234,6086,4113,1330
 1715,Yousai Gakuen,7.22,6235,13434,1544,350
 1902,Zelda no Densetsu: Fushigi no Boushi,7.22,6236,2426,10303,5713
 2128,Liberty☆Liberty!,7.22,6237,4697,5460,3296
@@ -7077,7 +7077,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 177083,Cyberpunk: Edgerunners Madness,7.16,7076,11210,1959,297
 180024,"On Your Knees, Your Highness!",7.16,7077,15922,1218,189
 181906,Eat Before You Go,7.16,7078,15363,1288,230
-188975,The Wandering Knight's Survival Manual,7.16,7079,11944,1807,396
+188975,The Wandering Knight's Survival Manual,7.16,7079,11944,1809,396
 86,Time Stranger Kyoko,7.16,7080,2546,9924,4877
 173,Cowboy Bebop,7.16,7081,1235,18769,7677
 862,Parallel,7.16,7082,3600,7157,3772
@@ -7377,7 +7377,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 170692,By My Side,7.14,7376,30201,416,165
 171195,Exorcist no Kiyoshi-kun,7.14,7377,3562,7229,1874
 180564,NakiNagi,7.14,7378,16906,1119,264
-186597,Jujutsu Kaisen Modulo,7.14,7379,642,33042,16886
+186597,Jujutsu Kaisen Modulo,7.14,7379,642,33042,16887
 186860,Koisuru Futari wa Kiba wo Kakusu: Gap ga Arisugiru Couple no Hanashi,7.14,7380,13989,1462,206
 187212,Her Game of Go,7.14,7381,23759,655,128
 188284,Kemono no You ni Ueteiru,7.14,7382,35894,286,154
@@ -7941,7 +7941,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 117242,Fate/Grand Order: Epic of Remnant - Ashu Tokuiten IV - Kinki Kourin Teien Salem - Itan naru Salem,7.1,7940,14924,1340,186
 119965,Nukenai Seiken-chan,7.1,7941,4258,6052,2174
 120067,Sensei mo Net Sedai,7.1,7942,15574,1261,284
-124174,Asako,7.1,7943,5904,4224,1022
+124174,Asako,7.1,7943,5904,4225,1022
 125018,Kuma to Tanuki,7.1,7944,29797,428,116
 131755,Yakusoku no Neverland: Tokubetsu Bangai-hen - Jijyuu no Sora wo Motomete,7.1,7945,6416,3860,2115
 132253,Youkai Ame Onna ni Yoru Kamikakushi,7.1,7946,20237,852,214
@@ -8079,7 +8079,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 99853,Trinity Seven: 7-nin no Mashotsukai Comic Anthology,7.1,8078,11270,1946,383
 101117,Rewrite:Side-Terra,7.1,8079,20641,827,125
 102479,Kemono-tachi wa Wana no Naka,7.1,8080,19195,927,373
-103786,Black Torch,7.1,8081,578,35997,12593
+103786,Black Torch,7.1,8081,578,35998,12593
 103798,Babylon made wa Nankounen?,7.1,8082,7199,3369,1654
 105328,"Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",7.1,8083,692,30726,8573
 105466,Albert-ke no Reijou wa Botsuraku wo Goshomou desu,7.1,8084,10962,2014,476
@@ -8293,7 +8293,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 492,R.I.P.,7.08,8292,13944,1468,610
 858,Dengeki! Pikachu,7.08,8293,4695,5464,2350
 1339,Yokujou Climax,7.08,8294,1071,20982,11359
-1464,Deimos no Hanayome,7.08,8295,10092,2237,301
+1464,Deimos no Hanayome,7.08,8295,10092,2238,301
 1637,Muchakucha Daisuki.,7.08,8296,8637,2708,1276
 1666,Aoi Spice,7.08,8297,14538,1389,689
 1782,Tenshi no Pocket,7.08,8298,21145,796,403
@@ -8825,7 +8825,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 143299,Ibitte Konai Gibo to Gishi,7.05,8824,13062,1606,276
 144387,Kono Subarashii Sekai ni Shukufuku wo!: Fantastic Days,7.05,8825,22573,714,155
 144396,Kimidori,7.05,8826,23261,678,203
-146385,The Divine Twilight's Return,7.05,8827,2360,10533,2470
+146385,The Divine Twilight's Return,7.05,8827,2360,10535,2470
 148124,Soul Cartel,7.05,8828,17801,1044,379
 148283,"I'll Raise You Well in This Life, Your Majesty!",7.05,8829,5883,4240,1215
 148652,Kyou wa Mada Futsuu ni Narenai,7.05,8830,21626,768,274
@@ -9519,7 +9519,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 126328,Chuugaku Onaji dakedo Shabetta Koto Nai Tomodachi,7,9518,16921,1118,601
 126634,S-Rank Boukensha de Aru Ore no Musume-tachi wa Juudo no Fathercon deshita,7,9519,2265,11017,2906
 129263,Shussan no Shikata ga Wakaranai!,7,9520,14328,1416,444
-129562,Shiotaiou no Satou-san ga Ore ni dake Amai @comic,7,9521,1683,14619,3688
+129562,Shiotaiou no Satou-san ga Ore ni dake Amai @comic,7,9521,1683,14620,3688
 130030,"Hazure Skill ""Mapping"" wo Te ni Shita Shounen wa Saikyou Party to Dungeon ni Idomu",7,9522,22711,706,210
 132613,"Tantei wa Mou, Shindeiru.",7,9523,5984,4172,714
 135132,Sonogo no Isshuukan Friends,7,9524,18898,949,119
@@ -9552,7 +9552,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 169437,Childcare Diary With the Villain,7,9551,16820,1128,193
 169553,Akuyaku Reijou to Gal Maid,7,9552,36526,276,124
 171171,From Acting Genius to Top Idol!,7,9553,23049,689,142
-171196,Himaten!,7,9554,1401,16835,5473
+171196,Himaten!,7,9554,1401,16835,5475
 172324,[Oshi no Ko] Tokubetsu-hen,7,9555,17962,1030,471
 172795,Traces of the Moon,7,9556,25649,569,152
 176086,Valhalla Saga,7,9557,10288,2183,524

@@ -390,7 +390,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 523,Tonari no Totoro,8.25,389,145,1170636,760637
 54029,Wu Liuqi: Anying Suming,8.25,390,4060,41343,21074
 56215,Yi Nian Yong Heng 3rd Season,8.25,391,9958,4512,1465
-54959,BanG Dream! It's MyGO!!!!!,8.24,392,3964,43233,20876
+54959,BanG Dream! It's MyGO!!!!!,8.24,392,3964,43235,20879
 37989,Golden Kamuy 2nd Season,8.24,393,1185,241142,131131
 10271,Gyakkyou Burai Kaiji: Hakairoku-hen,8.24,394,1318,215004,118115
 45577,IDOLiSH7 Third Beat!,8.24,395,4919,27064,9223
@@ -567,7 +567,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 1827,Seirei no Moribito,8.12,566,1206,236919,80679
 56738,Shinigami Bocchan to Kuro Maid 3rd Season,8.12,567,2949,72677,28182
 30370,Akatsuki no Yona OVA,8.11,568,1816,147166,76151
-63130,Boku no Hero Academia: More,8.11,569,3107,66169,32404
+63130,Boku no Hero Academia: More,8.11,569,3107,66173,32407
 18689,Diamond no Ace,8.11,570,1057,268789,124872
 50612,Dr. Stone: Ryuusui,8.11,571,695,395577,228819
 59229,Enen no Shouboutai: San no Shou Part 2,8.11,572,1367,206991,79837
@@ -919,8 +919,8 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 61595,I Byeol-e Pil-yohan,7.9,918,5558,19961,8794
 54118,IDOLiSH7 Movie: LIVE 4bit - BEYOND THE PERiOD,7.9,919,9952,4515,1130
 7711,Karigurashi no Arrietty,7.9,920,691,396927,247927
-33206,Kobayashi-san Chi no Maid Dragon,7.9,921,116,1336145,798189
-53287,Love Live! Superstar!! 3rd Season,7.9,922,5299,22550,8442
+33206,Kobayashi-san Chi no Maid Dragon,7.9,921,116,1336200,798220
+53287,Love Live! Superstar!! 3rd Season,7.9,922,5299,22553,8443
 27947,Lupin III (2015),7.9,923,2819,78316,24596
 795,Oniisama e...,7.9,924,3362,57211,12464
 29803,Overlord,7.9,925,69,1767284,1041843
@@ -1072,8 +1072,8 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 8408,Durarara!! Specials,7.83,1071,1595,174445,96686
 57466,Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo,7.83,1072,2738,82631,9179
 24471,Hoozuki no Reitetsu OVA,7.83,1073,5631,19376,8083
-38716,Kidou Senshi Gundam: Senkou no Hathaway - Circe no Majo,7.83,1074,6105,15692,2035
-32380,Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!,7.83,1075,601,447187,285133
+38716,Kidou Senshi Gundam: Senkou no Hathaway - Circe no Majo,7.83,1074,6105,15693,2035
+32380,Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!,7.83,1075,601,447212,285145
 31741,Magi: Sinbad no Bouken (TV),7.83,1076,499,520520,275903
 4087,Michiko to Hatchin,7.83,1077,1264,224436,66139
 28881,New Initial D Movie: Legend 2 - Tousou,7.83,1078,3706,48478,29045
@@ -1115,7 +1115,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 60302,Natsume Yuujinchou Shichi: Nobashita Te wa,7.82,1114,6709,12379,3073
 50410,One Piece Film: Red,7.82,1115,1241,230525,141636
 56175,Oomuro-ke: Dear Sisters,7.82,1116,5643,19305,4887
-33190,Planetarian: Hoshi no Hito,7.82,1117,3467,54460,17877
+33190,Planetarian: Hoshi no Hito,7.82,1117,3467,54460,17878
 34504,Seitokai Yakuindomo Movie,7.82,1118,3099,66587,27745
 44196,Shanhe Jian Xin,7.82,1119,5171,23913,15853
 849,Suzumiya Haruhi no Yuuutsu,7.82,1120,200,985927,505560
@@ -1151,7 +1151,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 59205,Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha,7.8,1150,1385,204582,101933
 48702,Dance Dance Danseur,7.8,1151,2322,105970,49466
 2035,Eikoku Koi Monogatari Emma: Molders-hen,7.8,1152,3987,42791,25657
-33280,Gochuumon wa Usagi desu ka?? Dear My Sister,7.8,1153,3811,46219,19793
+33280,Gochuumon wa Usagi desu ka?? Dear My Sister,7.8,1153,3811,46218,19795
 4872,Goku Sayonara Zetsubou Sensei,7.8,1154,2786,79670,43795
 40372,Haikyuu!! (OVA),7.8,1155,4304,36556,12113
 451,InuYasha Movie 3: Tenka Hadou no Ken,7.8,1156,2134,119922,68375
@@ -1290,7 +1290,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 19319,Gundam Build Fighters,7.75,1289,2747,81977,41747
 49220,Isekai Ojisan,7.75,1290,621,434306,202718
 3782,Kara no Kyoukai Movie 2: Satsujin Kousatsu (Zen),7.75,1291,1108,256726,156899
-33263,Kubikiri Cycle: Aoiro Savant to Zaregotozukai,7.75,1292,2207,114363,36355
+33263,Kubikiri Cycle: Aoiro Savant to Zaregotozukai,7.75,1292,2207,114373,36357
 6115,Lupin III vs. Meitantei Conan,7.75,1293,4161,39272,20593
 35073,Overlord II,7.75,1294,156,1137995,701996
 48896,Overlord Movie 3: Sei Oukoku-hen,7.75,1295,2093,122793,48345
@@ -1382,7 +1382,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 7724,Shiki,7.72,1381,381,651169,276599
 534,Slayers,7.72,1382,1741,155286,65712
 2582,Soukou Kihei Votoms,7.72,1383,4698,30227,7158
-51533,Tonikaku Kawaii: Seifuku,7.72,1384,2213,113613,52740
+51533,Tonikaku Kawaii: Seifuku,7.72,1384,2213,113625,52747
 479,Ueki no Housoku,7.72,1385,2047,126561,51078
 51769,Xingchen Bian 5th Season,7.72,1386,11467,2901,1114
 54285,Yao Shen Ji 7th Season,7.72,1387,11112,3195,1189
@@ -1462,7 +1462,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 25303,Haikyuu!! Lev Genzan!,7.69,1461,1822,146464,80072
 13119,Hakuouki Movie 2: Shikon Soukyuu,7.69,1462,5114,24534,7842
 5835,Hanasakeru Seishounen,7.69,1463,2927,73539,27347
-51995,Hibike! Euphonium: Ensemble Contest-hen,7.69,1464,4252,37407,20106
+51995,Hibike! Euphonium: Ensemble Contest-hen,7.69,1464,4252,37414,20112
 33899,IDOLiSH7,7.69,1465,2803,79108,26545
 44586,Kakushigoto Movie,7.69,1466,3869,45001,10260
 32792,Kidou Senshi Gundam Unicorn RE:0096,7.69,1467,4117,40000,18210
@@ -1551,7 +1551,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 3931,Initial D Battle Stage 2,7.66,1550,4404,34768,15925
 4814,Junjou Romantica 2,7.66,1551,1487,189092,111008
 15117,Kami nomi zo Shiru Sekai: Tenri-hen,7.66,1552,1848,144297,85079
-32491,Kanojo to Kanojo no Neko: Everything Flows,7.66,1553,1818,146965,63097
+32491,Kanojo to Kanojo no Neko: Everything Flows,7.66,1553,1818,146973,63097
 40269,Kengan Ashura Part 2,7.66,1554,2103,122020,74855
 30311,Kuroko no Basket 3rd Season NG-shuu,7.66,1555,3669,49017,19841
 48890,Ling Long: Incarnation Special,7.66,1556,12302,2297,1028
@@ -1601,7 +1601,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 12883,Tsuritama,7.65,1600,1575,177499,61771
 54757,3-nen Z-gumi Ginpachi-sensei,7.64,1601,3782,46894,14060
 55973,30-sai made Doutei dato Mahoutsukai ni Nareru Rashii,7.64,1602,2440,98485,46497
-48553,Akebi-chan no Sailor-fuku,7.64,1603,1310,216691,80147
+48553,Akebi-chan no Sailor-fuku,7.64,1603,1310,216708,80152
 32863,Ansatsu Kyoushitsu: Kagaijugyou-hen,7.64,1604,2836,77455,28973
 7193,Aoi Bungaku Series,7.64,1605,1218,234701,68558
 1239,Bishoujo Senshi Sailor Moon SuperS,7.64,1606,2001,130324,65926
@@ -1671,7 +1671,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 2961,Digimon Adventure Movie,7.62,1670,2123,120750,77031
 35972,Fairy Tail: Final Series,7.62,1671,447,563187,278025
 38086,Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 2 - Paladin; Agateram,7.62,1672,2600,89136,37773
-32979,Flip Flappers,7.62,1673,1379,205217,75938
+32979,Flip Flappers,7.62,1673,1379,205219,75939
 19671,Free!: FrFr - Short Movie,7.62,1674,2874,75600,34681
 32948,Fune wo Amu,7.62,1675,1942,136143,45656
 58091,Gintama on Theater 2D: Ikkoku Keisei-hen,7.62,1676,9065,5877,577
@@ -1695,7 +1695,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 61200,Shuumatsu no Walküre III,7.62,1694,3197,63214,31948
 15731,Tamayura: More Aggressive,7.62,1695,5255,23044,8478
 50608,Tokyo Revengers: Seiya Kessen-hen,7.62,1696,622,433956,197202
-32977,Aggressive Retsuko,7.61,1697,2192,115154,54943
+32977,Aggressive Retsuko,7.61,1697,2192,115157,54946
 62421,Ansatsu Kyoushitsu Movie: Minna no Jikan,7.61,1698,4556,32249,1002
 39681,D4DJ First Mix,7.61,1699,3715,48290,18980
 48780,Dakaretai Otoko 1-i ni Odosarete Imasu. Movie: Spain-hen,7.61,1700,4082,40643,10413
@@ -1845,7 +1845,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 47257,Shinigami Bocchan to Kuro Maid,7.58,1844,989,286312,109921
 36474,Sword Art Online: Alicization,7.58,1845,150,1150399,679651
 1372,Taiho Shichau zo (TV),7.58,1846,3904,44496,11203
-54565,Tensei shitara Slime Datta Ken: Coleus no Yume,7.58,1847,2264,109624,49765
+54565,Tensei shitara Slime Datta Ken: Coleus no Yume,7.58,1847,2264,109635,49771
 48405,Totsukuni no Shoujo (2022),7.58,1848,3360,57293,19503
 969,Tsubasa Chronicle 2nd Season,7.58,1849,2087,123195,61160
 24405,World Trigger,7.58,1850,564,472228,161993
@@ -1914,7 +1914,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 50695,MF Ghost,7.56,1913,2548,92321,42046
 51105,NieR:Automata Ver1.1a,7.56,1914,829,341486,97458
 584,Noein: Mou Hitori no Kimi e,7.56,1915,2451,97934,31285
-33091,Planetarian: Chiisana Hoshi no Yume,7.56,1916,2362,103617,43497
+33091,Planetarian: Chiisana Hoshi no Yume,7.56,1916,2362,103624,43498
 39355,Radiant 2nd Season,7.56,1917,2113,121233,48632
 51297,Ragna Crimson,7.56,1918,983,288758,110500
 5507,Senjou no Valkyria,7.56,1919,1923,137663,56633
@@ -2878,7 +2878,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 38699,Boku no Hero Academia the Movie 1: Futari no Hero Specials,7.34,2877,1856,143271,65098
 1450,Brigadoon: Marin to Melan,7.34,2878,6109,15670,4004
 1475,City Hunter: Bay City Wars,7.34,2879,7321,10018,4298
-33028,Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen,7.34,2880,787,352757,195220
+33028,Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen,7.34,2880,787,352774,195232
 1684,Dotto Koni-chan,7.34,2881,8972,6025,2086
 901,"Dragon Ball Z Movie 08: Moetsukiro!! Nessen, Ressen, Chougekisen",7.34,2882,1563,178817,113833
 23311,Garo: Honoo no Kokuin,7.34,2883,1768,152367,52917
@@ -3070,7 +3070,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 5332,Toshokan Sensou: Koi no Shougai,7.31,3069,6992,11141,5937
 9874,Touhou Niji Sousaku Doujin Anime: Musou Kakyou,7.31,3070,3969,43105,12686
 49241,Vivy: Fluorite Eye's Song - To Make Everyone Happy With My Singing,7.31,3071,5392,21726,8463
-33758,Wu Geng Ji,7.31,3072,8777,6338,2097
+33758,Wu Geng Ji,7.31,3072,8777,6339,2097
 38467,Wu Geng Ji: San Jie,7.31,3073,11169,3137,970
 41094,Xian Wang de Richang Shenghuo,7.31,3074,676,401957,184400
 35626,Yao Shen Ji,7.31,3075,5771,18084,7591
@@ -3090,7 +3090,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 40656,Girls & Panzer: Saishuushou Part 2 Specials,7.3,3089,7117,10693,4364
 48857,Healer Girl,7.3,3090,4224,37875,12405
 1030,Heisei Tanuki Gassen Ponpoko,7.3,3091,2106,121872,70979
-51020,Helck,7.3,3092,2099,122325,46986
+51020,Helck,7.3,3092,2099,122347,46990
 36884,Hisone to Maso-tan,7.3,3093,2574,90548,40172
 62146,Isekai Nonbiri Nouka 2,7.3,3094,2681,85335,23711
 48612,Journey: Taiko Arabia Hantou de no Kiseki to Tatakai no Monogatari,7.3,3095,6102,15697,5316
@@ -3182,7 +3182,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 9793,Senjou no Valkyria 3: Tagatame no Juusou,7.29,3181,6029,16172,6598
 48537,Shi Yi Chang An: Mingyue Jishi You Er,7.29,3182,8682,6530,1999
 152,Solty Rei,7.29,3183,4502,33050,13387
-32105,Sousei no Onmyouji,7.29,3184,460,556685,230198
+32105,Sousei no Onmyouji,7.29,3184,460,556706,230207
 13333,Tari Tari,7.29,3185,1643,167943,59816
 30458,"Tokyo Ghoul: ""Jack""",7.29,3186,1039,273422,153181
 10713,Towa no Quon 2: Konton no Ranbu,7.29,3187,4044,41821,21715
@@ -3220,7 +3220,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 272,Noir,7.28,3219,2075,124767,41990
 1238,One Piece: Mamore! Saigo no Oobutai,7.28,3220,4388,35161,16571
 40881,Pokemon Movie 23: Koko,7.28,3221,4611,31481,14403
-63830,Re:Zero kara Hajimeru Break Time 4th Season,7.28,3222,7991,8019,674
+63830,Re:Zero kara Hajimeru Break Time 4th Season,7.28,3222,7991,8020,674
 61230,Saishuu Gakushou Hibike! Euphonium: Zenpen,7.28,3223,6980,11218,173
 15963,Seitokai no Ichizon Lv.2: Watasu Seitokai,7.28,3224,5106,24634,11218
 44275,Selection Project,7.28,3225,3661,49226,17432
@@ -4035,10 +4035,10 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 51464,4-nin wa Sorezore Uso wo Tsuku,7.14,4034,3959,43363,16578
 39610,ACCA: 13-ku Kansatsu-ka - Regards,7.14,4035,5603,19565,8045
 54837,Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen,7.14,4036,1330,212954,111884
-58600,Ameku Takao no Suiri Karte,7.14,4037,2401,100909,38087
+58600,Ameku Takao no Suiri Karte,7.14,4037,2401,100927,38093
 35834,Angolmois: Genkou Kassenki,7.14,4038,3134,65173,27845
 30205,Aoharu x Kikanjuu,7.14,4039,1250,227475,105174
-32827,B: The Beginning,7.14,4040,746,372234,186321
+32827,B: The Beginning,7.14,4040,746,372257,186330
 2706,Bakusou Kyoudai Let's & Go WGP,7.14,4041,8327,7220,4033
 58477,Benghuai: Xing Qiong Tiedao - Yongjie Lun Wu,7.14,4042,18362,534,256
 10163,C: The Money of Soul and Possibility Control,7.14,4043,825,342471,155548
@@ -4180,7 +4180,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 613,Onmyou Taisenki,7.12,4179,8490,6905,2107
 55194,Ooi! Tonbo,7.12,4180,6211,14920,5416
 19221,"Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru",7.12,4181,637,427022,222574
-34325,Pokemon XY&Z Specials,7.12,4182,6445,13606,6667
+34325,Pokemon XY&Z Specials,7.12,4182,6445,13606,6666
 15649,Puchimas!: Petit iDOLM@STER,7.12,4183,6212,14915,6189
 49572,Quanzhi Fashi VI,7.12,4184,5244,23119,5760
 3363,RD Sennou Chousashitsu,7.12,4185,4610,31512,6564
@@ -4473,7 +4473,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 6713,Ranma ½: Nettou Uta Gassen,7.07,4472,7893,8287,2964
 2110,Rockman.EXE Beast,7.07,4473,7539,9302,3503
 42798,Sayonara Watashi no Cramer Movie: First Touch,7.07,4474,6791,12018,4124
-33031,Shakunetsu no Takkyuu Musume,7.07,4475,3720,48223,19945
+33031,Shakunetsu no Takkyuu Musume,7.07,4475,3720,48224,19945
 60303,"Shinjiteita Nakama-tachi ni Dungeon Okuchi de Korosarekaketa ga Gift ""Mugen Gacha"" de Level 9999 no Nakama-tachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & ""Zamaa!"" Shimasu!",7.07,4476,1960,134191,69890
 5702,Sora wo Miageru Shoujo no Hitomi ni Utsuru Sekai,7.07,4477,3951,43695,15161
 61997,Sugar Sugar Rune: Les deux sorcières,7.07,4478,12852,1947,549
@@ -4784,7 +4784,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 31417,Binan Koukou Chikyuu Bouei-bu Love! Love!,7,4783,4620,31347,11784
 998,Blue Seed,7,4784,4473,33467,11379
 33728,Chain Chronicle: Haecceitas no Hikari Part 1,7,4785,5008,25832,7890
-33729,Chain Chronicle: Haecceitas no Hikari Part 2,7,4786,5832,17743,5646
+33729,Chain Chronicle: Haecceitas no Hikari Part 2,7,4786,5832,17744,5647
 2662,Doraemon Movie 02: Nobita no Uchuu Kaitakushi,7,4787,8760,6371,3392
 2517,Eikoku Koi Monogatari Emma: Intermission,7,4788,8829,6244,2584
 1045,Elf wo Karu Mono-tachi,7,4789,4674,30706,11599
@@ -5039,7 +5039,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 3032,Digimon Tamers: Boukensha-tachi no Tatakai,6.95,5038,5149,24083,11839
 35686,Doraemon (2005) Specials,6.95,5039,12232,2335,563
 10115,Friends: Mononoke Shima no Naki,6.95,5040,13524,1587,655
-33203,Fukumenkei Noise,6.95,5041,1937,136589,53501
+33203,Fukumenkei Noise,6.95,5041,1937,136611,53506
 7307,Gegege no Kitarou (1985),6.95,5042,10893,3380,941
 3012,Gekitou! Crush Gear Turbo,6.95,5043,8039,7894,4061
 456,Gokujou Seitokai,6.95,5044,5396,21658,7260
@@ -5108,7 +5108,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 53912,Seiyuu Radio no Uraomote,6.94,5107,3280,59699,21169
 32151,Senki Zesshou Symphogear GX: Senki Zesshou Shinai Symphogear,6.94,5108,7982,8035,3028
 58426,Shikanoko Nokonoko Koshitantan,6.94,5109,1001,282377,120055
-60821,Shiye Mowang,6.94,5110,9268,5538,915
+60821,Shiye Mowang,6.94,5110,9268,5540,915
 12191,Smile Precure!,6.94,5111,3509,53028,26394
 60336,Star Wars: Visions Volume 3,6.94,5112,6903,11528,3133
 33286,Strike the Blood II,6.94,5113,1354,209301,94006
@@ -5374,7 +5374,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 3836,Meiken Jolie,6.89,5373,9992,4454,1540
 9693,Moshidora,6.89,5374,5254,23048,9328
 800,NieA Under 7,6.89,5375,3941,43964,11974
-32962,Occultic;Nine,6.89,5376,1378,205383,73549
+32962,Occultic;Nine,6.89,5376,1378,205384,73548
 9798,Pandane to Tamago-hime,6.89,5377,8759,6375,2315
 7695,Pokemon Movie 13: Genei no Hasha Zoroark,6.89,5378,2750,81797,48166
 11569,Precure All Stars DX the Dance Live♥: Miracle Dance Stage e Youkoso,6.89,5379,11100,3204,1019
@@ -5850,7 +5850,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 48577,Home!,6.81,5849,8115,7730,3395
 60551,Hyakushou Kizoku 3rd Season,6.81,5850,13101,1793,639
 40803,Hypnosis Mic: Division Rap Battle - Rhyme Anima,6.81,5851,3060,68020,22367
-34178,Inazuma Eleven: Outer Code,6.81,5852,7484,9475,4209
+34178,Inazuma Eleven: Outer Code,6.81,5852,7484,9478,4211
 10794,IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou,6.81,5853,2021,128616,70277
 24821,Isshuukan Friends. Specials,6.81,5854,5319,22391,9387
 2772,Juushin Enbu: Hero Tales,6.81,5855,4731,29616,10601
@@ -6065,7 +6065,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 1277,Ys: Tenkuu no Shinden - Adol Christine no Bouken,6.78,6064,8875,6176,2388
 31427,Zinba,6.78,6065,12442,2200,801
 7113,30th Gundam Perfect Mission,6.77,6066,8041,7889,3782
-32323,Aishen Qiaokeli-ing...,6.77,6067,2333,105435,33965
+32323,Aishen Qiaokeli-ing...,6.77,6067,2333,105436,33968
 5935,Animation Kikou: Marco Polo no Bouken,6.77,6068,13121,1784,425
 49665,Blue Thermal,6.77,6069,6124,15552,4408
 1123,Bouken Ou Beet Excellion,6.77,6070,7726,8757,3905
@@ -6381,7 +6381,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 9127,Zettai Karen Children: Gentei Kaikin!! OVA Chou Sakidori Special!!,6.73,6380,11058,3235,879
 48914,Zhen Dao Ge: Chenshi Hang,6.73,6381,15937,867,201
 2688,Akai Koudan Zillion,6.72,6382,8539,6822,1698
-61192,All You Need Is Kill,6.72,6383,5805,17865,3049
+61192,All You Need Is Kill,6.72,6383,5805,17866,3049
 36882,Arifureta Shokugyou de Sekai Saikyou,6.72,6384,278,823900,464138
 9618,Asobi ni Iku yo!: Asobi ni Oide,6.72,6385,3587,51128,25175
 3193,Asobot Senki Gokuu,6.72,6386,10214,4170,1348
@@ -6759,7 +6759,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 31456,Code:Realize - Sousei no Himegimi,6.67,6758,2562,91165,28834
 61196,Dead Account,6.67,6759,3707,48437,15323
 33314,Digimon Universe: Appli Monsters,6.67,6760,5856,17534,6841
-33045,Dream Festival!,6.67,6761,6235,14766,5310
+33045,Dream Festival!,6.67,6761,6235,14765,5310
 32785,Future Card Buddyfight Triple D,6.67,6762,9312,5467,2530
 39417,Granbelm,6.67,6763,3349,57567,20398
 61092,Himitsu no AiPri: Ring-hen,6.67,6764,12506,2160,331
@@ -7017,7 +7017,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 886,Amaenaide yo!! Katsu!!,6.63,7016,3465,54475,27511
 39362,Astro Boy: Tetsuwan Atom - Getsumen Kichi - Kieta Robot no Nazo,6.63,7017,13358,1666,515
 6096,Bad Boys,6.63,7018,10483,3825,846
-33566,Baki: Most Evil Death Row Convicts Special Anime,6.63,7019,5116,24516,10279
+33566,Baki: Most Evil Death Row Convicts Special Anime,6.63,7019,5116,24518,10279
 8092,Bakumatsu no Spasibo,6.63,7020,12690,2039,540
 14913,Battle Spirits: Sword Eyes,6.63,7021,10924,3350,992
 60645,Boku no Hero Academia the Movie 4: You're Next - A Piece of Cake,6.63,7022,9340,5415,2033
@@ -7335,7 +7335,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 2288,Akihabara Dennou-gumi,6.58,7334,7454,9568,3090
 29223,Aldnoah.Zero Extra Archives,6.58,7335,6090,15791,5105
 37589,Ano Hi no Kanojo-tachi,6.58,7336,8493,6896,1977
-33046,B-Project: Kodou*Ambitious,6.58,7337,3679,48858,17573
+33046,B-Project: Kodou*Ambitious,6.58,7337,3679,48861,17573
 34055,Berserk 2nd Season,6.58,7338,1342,211091,112501
 27815,Cardfight!! Vanguard G,6.58,7339,5809,17854,8765
 2089,Choujikuu Seiki Orguss,6.58,7340,7983,8034,1828
@@ -8153,7 +8153,7 @@ id,title,mean,rank,popularity,num_list_users,num_scoring_users
 43778,Motto! Majime ni Fumajime Kaiketsu Zorori 2nd Season,6.46,8152,16456,768,134
 39720,Mu Wang Zhi Wang: Xuan Guan Si,6.46,8153,16282,796,196
 43291,Mu Wang Zhi Wang: You Du Zhan,6.46,8154,18919,486,138
-62080,Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu,6.46,8155,6230,14816,1005
+62080,Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu,6.46,8155,6230,14829,1007
 60377,Nazotoki wa Dinner no Ato de,6.46,8156,4617,31378,9659
 40515,Nihon Chinbotsu 2020,6.46,8157,1714,158149,88920
 5529,Pokemon: Odoru Pokemon Himitsu Kichi,6.46,8158,6349,14116,6218
