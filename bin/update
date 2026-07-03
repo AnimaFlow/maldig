@@ -264,7 +264,11 @@ def build_anime_record(record):
 
 
 def write_ranking(records, path):
-    records.sort(key=lambda r: r.get('node', {}).get('rank'))
+    def get_rank(r):
+        rank = r.get('node', {}).get('rank')
+        return rank if rank is not None else float('inf')
+
+    records.sort(key=get_rank)
     headers = load_headers('ranking')
     write_csv(map(build_ranking_record, records), path, headers)
 
