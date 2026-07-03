@@ -57,11 +57,13 @@ jobs:
       - name: Update Manga Data
         env:
           MAL_CLIENT_ID: ${{ secrets.MAL_CLIENT_ID }}
+          MAX_RECORDS_MANGA: ${{ secrets.MAX_RECORDS_MANGA }}
         run: bin/update manga
 
       - name: Update Anime Data
         env:
           MAL_CLIENT_ID: ${{ secrets.MAL_CLIENT_ID }}
+          MAX_RECORDS_ANIME: ${{ secrets.MAX_RECORDS_ANIME }}
         run: bin/update anime
 
       - name: Upload Manga Artifacts
